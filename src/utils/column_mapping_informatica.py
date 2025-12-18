@@ -1,0 +1,26 @@
+ORM_TO_CSV_INFORMATICA = {
+    "id_alumno": "IDAlumno",
+    "sexo": "Sexo",
+    "estado": "Estado",
+    "estado_carrera": "Estado_Carrera",
+    "tiempo_estudio": "TiempoEstudio",
+    "ausencias": "Ausencias",
+    "cinco_f": "CincoF",
+    "aplazos": "aplazos",
+    "promedio": "Promedio",
+
+    "administracion_mercadotecnia": "ADMINISTRACION Y MERCADOTECNIA",
+    "bases_datos_i": "BASES DE DATOS I",
+    "bases_datos_ii": "BASES DE DATOS II",
+    "computacion_i": "COMPUTACION I",
+    "computacion_ii": "COMPUTACION II",
+    "computacion_iii": "COMPUTACION III",
+    "contabilidad_i": "CONTABILIDAD I",
+    "calculo_i": "CALCULO I",
+    "calculo_ii": "CALCULO II",
+    "calculo_iii": "CALCULO III",
+    # … todas las materias …
+    "algebra_i": "ALGEBRA I",
+    "algebra_ii": "ALGEBRA II",
+    "etica_profesional": "ETICA PROFESIONAL",
+}
